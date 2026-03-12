@@ -11,6 +11,10 @@
 - Johnson & Wales University - Remote/RI - Teachers Assistant [Business] (Aug. 2024 - Dec. 2024)
 
 # Projects
-### Project 1 - Professional Statement for Cybersecurity
+### Project 1 - Professional Statement
 - This project includes my professional statement including strengths, focuses, and goals for prioritizing security.
 - [Professional Statement](https://docs.google.com/document/d/1qMoYdwqdqjFuE8sZ0zgcUbma0yjiIUg551lLF1stUx4/edit?usp=sharing)
+
+### Project 2 - Security Audit
+- This project showcases my capabilities of performing a security audit for my respective company.
+- [Security Audit](https://docs.google.com/document/d/16gKIHv7fEyTxCIbPI2t4H-PqXuTw7QDZHtF-fUU7Peg/edit?usp=sharing)
