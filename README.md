@@ -31,3 +31,8 @@
 - In this project I discovered an ongoing attack taking place and referred to the tcpdump traffic log to determine the threat.
 - [Incident Report: OS Hardening](https://docs.google.com/document/d/1I2KuZ2H_rHMcM6M-D3Vwt6qNAnIrjruDIwG2Gainf88/edit?usp=sharing)
 
+### Project 6 - Security Risk Assessment Report
+- In this project I conducted a risk assessment report to determine the vulnerbilities within an organizations security measures.
+- [Security Risk Assessment Report](https://docs.google.com/document/d/18sRlFYBf3dq2a9wOI6thGJvD-9V3QCdKipwV5hvHlgA/edit?usp=sharing)
+
+
