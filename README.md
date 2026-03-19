@@ -19,19 +19,24 @@
 - This project showcases my capabilities of performing a security audit for my respective company.
 - [Security Audit](https://docs.google.com/document/d/16gKIHv7fEyTxCIbPI2t4H-PqXuTw7QDZHtF-fUU7Peg/edit?usp=sharing)
 
-### Project 3 - Incident Report: Network Traffic Analysis
+### Project 3 - Incident Report Analysis: DoS Attack
+- This project showcases my abilities to detect an ongoing network attack, break down how it occured, how to contain the problem, and how to restore systems effectively. 
+- [Incident Report Analysis: DoS Attack](https://docs.google.com/document/d/1mnF5OPb5q01MnrfVSmB-mDarR8jfwc0zJHkqB4XImKU/edit?usp=sharing)
+
+# Relative Assignments
+### Assignment 1 - Incident Report: Network Traffic Analysis
 - This project highlights my ability to detect issues and their causes in network traffic during a security event.
 - [Incident Report: Network Traffic Analysis](https://docs.google.com/document/d/1sfIkK1jucKp4NJKKbu3oyXCAnK4VFqwaA-r1gQUm3fw/edit?usp=sharing)
 
-### Project 4 - Incident Report: Network Attack
+### Assignment 2 - Incident Report: Network Attack
 - In this project I showcase my ability to detect an ongoing attack, determine the kind of attack, and how to report on the incident that occured. 
 - [Incident Report: Network Attack](https://docs.google.com/document/d/1e6dwbTQ9XEo34EhkklJ9WgzkxjLcbwg_ln6RnbIiTNs/edit?usp=sharing)
 
-### Project 5 - Incident Report: OS Hardening
+### Assignment 3 - Incident Report: OS Hardening
 - In this project I discovered an ongoing attack taking place and referred to the tcpdump traffic log to determine the threat.
 - [Incident Report: OS Hardening](https://docs.google.com/document/d/1I2KuZ2H_rHMcM6M-D3Vwt6qNAnIrjruDIwG2Gainf88/edit?usp=sharing)
 
-### Project 6 - Security Risk Assessment Report
+### Assignment 4 - Security Risk Assessment Report
 - In this project I conducted a risk assessment report to determine the vulnerbilities within an organizations security measures.
 - [Security Risk Assessment Report](https://docs.google.com/document/d/18sRlFYBf3dq2a9wOI6thGJvD-9V3QCdKipwV5hvHlgA/edit?usp=sharing)
 
