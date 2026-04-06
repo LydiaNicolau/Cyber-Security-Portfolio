@@ -63,3 +63,7 @@
 ### Assignment 7 - Access Control
 - In this assignment I assessed the access controls used by a business after a security event took place.
 - [Access Control](https://docs.google.com/document/d/1Mh4D3pummEwLWMsM7GmlVKGjG6M7MLMuUYvZjiTzzEw/edit?usp=sharing)
+
+### Assignment 8 - USB Exercise
+- In this assignment I assessed the attack vectors of a USB drive. 
+- [Parking Lot USB Exercise](https://docs.google.com/document/d/1AQp-9yfYVZWUPQONmVOw0o6T-5QIZwizacBL80GBy9Q/edit?usp=sharing)
